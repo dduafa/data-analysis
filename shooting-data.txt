@@ -1,2 +1,2 @@
 Name | Gender | Region
-Derek| Male   | Greater (removed mistake) 
+Derek| Male   | Greater (mistake) 
